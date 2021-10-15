@@ -4,6 +4,12 @@ He was a charming, intuitive, tea drinker with red eyes. His friends saw him as 
 
 Edward walked over to the window and reflected on his bright surroundings. The sleet rained like jogging tortoises.
 
+<<<<<<< HEAD
+=======
+Edward did not mind the weather, he found it to be peaceful. He sat by the window a while, contemplating what he might do when the precipitation stopped. 
+>>>>>>> 57a0d211255cc32cf769b84c4c1b632498e477eb
+
+
 As Edward looked outside towards the Magere Brug, he saw a small little bakery across the canal. He marveled at the old architecture, and small
 but quaint chimney expunging smoke. Then his eyes grew larger as he looked closer at what was being made. There were odd assortments of pastries
 on the window shelf. Small plump corssaints, crispy soft danishes, perfectly baked sourdough. But there was one small pastry that Edward eyed with
